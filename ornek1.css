@@ -1,4 +1,4 @@
-h1 {
+#page-title {
     text-align: center;
     font-weight: bolder;
     font-size: 16px;
@@ -8,7 +8,7 @@ ul {
     list-style-type: none;
 }
 
-li {
+.liste {
     text-decoration: line-through;
     background-color: #EBE645;
 }
